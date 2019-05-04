@@ -9,7 +9,10 @@
 
 @implementation NSString (test)
 
-+ (void)test {
+
+
+
++ (void)test {		
     
     NSLog(@"this is a test");
 }
